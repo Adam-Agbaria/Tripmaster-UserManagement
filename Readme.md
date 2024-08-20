@@ -19,7 +19,7 @@ This application provides functionalities for managing users, flights, vacation 
 Clone the repository:
 
 
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/Adam-Agbaria/Tripmaster-UserManagement.git
 cd yourrepository
 npm install
 npm start
