@@ -1,0 +1,31 @@
+const agentDestinations = [
+    "Paris", "London", "New York", "Tokyo", "Sydney", "Rome", "Barcelona", "Amsterdam", "Berlin", "Dubai",
+    "Hong Kong", "Bangkok", "Istanbul", "Vienna", "Madrid", "Lisbon", "Venice", "Florence", "Milan", "Prague",
+    "Budapest", "Moscow", "Saint Petersburg", "Warsaw", "Stockholm", "Copenhagen", "Helsinki", "Oslo", "Reykjavik",
+    "Athens", "Zurich", "Geneva", "Brussels", "Dublin", "Edinburgh", "Glasgow", "Manchester", "Liverpool", "Birmingham",
+    "Leeds", "Bristol", "Cardiff", "Belfast", "Lisbon", "Porto", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes",
+    "Strasbourg", "Bordeaux", "Montpellier", "Lille", "Rennes", "Grenoble", "Dijon", "Avignon", "Limoges", "Clermont-Ferrand",
+    "Amiens", "Rouen", "Le Havre", "Reims", "Tours", "Orleans", "Metz", "Mulhouse", "Besancon", "Angers", "Boulogne-Billancourt",
+    "Argenteuil", "Saint-Denis", "Roubaix", "Tourcoing", "Nanterre", "Creteil", "Saint-Denis", "Poitiers", "Perpignan", "Mulhouse",
+    "Caen", "Annecy", "Beziers", "Pau", "Saint-Nazaire", "Mans", "Valenciennes", "Cholet", "Lorient", "Chambery", "Niort", "Troyes",
+    "Saint-Quentin", "Cherbourg", "Arras", "Laval", "Blois", "Bayeux", "Colmar", "Albi", "Saint-Malo", "Bastia", "Ajaccio", "Tarbes",
+    "Angouleme", "Nevers", "Rodez", "La Rochelle", "Bourges", "Montauban", "Pontoise", "Meaux", "Melun", "Versailles", "Nimes", "Arles",
+    "Frejus", "Saint-Raphael", "Cannes", "Antibes", "Grasse", "Ajaccio", "Bastia", "Corte", "Saint-Tropez", "Sanary-sur-Mer", "La Seyne-sur-Mer",
+    "Toulon", "Hyères", "Draguignan", "Saint-Raphael", "Avignon", "Orange", "Carpentras", "Arles", "Martigues", "Salon-de-Provence",
+    "Aix-en-Provence", "Marseille", "Gap", "Briancon", "Digne-les-Bains", "Forcalquier", "Sisteron", "Manosque", "Nice", "Grasse", "Cannes",
+    "Antibes", "Vence", "Beaulieu-sur-Mer", "Mentone", "Monaco", "Sanremo", "Genoa", "Florence", "Venice", "Naples", "Pisa", "Siena", "Bologna",
+    "Turin", "Milan", "Rome", "Palermo", "Catania", "Messina", "Syracuse", "Rimini", "Verona", "Padua", "Trieste", "Parma", "Modena", "Reggio Emilia",
+    "Ravenna", "Ferrara", "Cesena", "Forli", "Perugia", "Assisi", "Gubbio", "Spoleto", "Orvieto", "Terni", "Viterbo", "Frosinone", "Latina",
+    "Rieti", "Teramo", "Pescara", "L-Aquila", "Chieti", "Campobasso", "Isernia", "Benevento", "Avellino", "Caserta", "Salerno", "Pontedera",
+    "Viareggio", "Lucca", "Massa", "Livorno", "Grosseto", "Siena", "Arezzo", "Prato", "Florence", "Pistoia", "Modena", "Ferrara", "Ravenna", "Bologna",
+    "Rimini", "Parma", "Piacenza", "Reggio Emilia", "Carpi", "Forli", "Cesena", "Imola", "Faenza", "Rovigo", "Vicenza", "Treviso", "Padua", "Verona",
+    "Venice", "Trieste", "Gorizia", "Udine", "Bolzano", "Trento", "Belluno", "Aosta", "Genoa", "Savona", "Imperia", "La Spezia", "Alessandria", "Asti",
+    "Biella", "Cuneo", "Novara", "Turin", "Vercelli", "Verbania", "Como", "Varese", "Lecco", "Sondrio", "Monza", "Bergamo", "Brescia", "Cremona",
+    "Lodi", "Mantua", "Milan", "Pavia", "Foggia", "Bari", "Taranto", "Brindisi", "Lecce", "Potenza", "Matera", "Catanzaro", "Reggio Calabria", "Cosenza",
+    "Vibo Valentia", "Crotone", "Messina", "Palermo", "Catania", "Siracusa", "Ragusa", "Trapani", "Enna", "Caltanissetta", "Nuoro", "Oristano", "Sassari",
+    "Cagliari", "Olbia", "Rome", "Naples", "Florence", "Venice", "Milan", "Turin", "Palermo", "Genoa", "Bologna", "Pisa", "Verona", "Trieste", "Padua",
+    "Parma", "Modena", "Ravenna", "Ferrara", "Rimini", "Assisi", "Perugia", "Siena", "Lucca", "Livorno", "Arezzo", "Grosseto", "Pistoia", "Prato",
+    "Piombino", "Massa", "Viareggio", "San Marino", "Vatican City"
+];
+
+export default agentDestinations;
